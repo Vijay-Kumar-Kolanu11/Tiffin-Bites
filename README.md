@@ -1,5 +1,6 @@
 
 <h1>Tiffin Bites</h1>
+
 Built a responsive menu catalog web page listing multiple tiffin items (e.g. Idli, Masala Dosa, Poha) with images and pricing.
 
 Implemented a cart/order summary UI showing total items & total cost, dynamically updating as users add items.
@@ -15,3 +16,20 @@ Designed with mobile-friendly layout and intuitive visuals (images, buttons, plu
 Deployed the static frontend on Netlify for fast hosting and easy access.
 
 Paid attention to detail: item-price display, image usage, UX clarity.
+
+<h1>Features</h1>
+<li>Responsive layout that adapts to different screen sizes</li>
+<li>Search bar to find Tiffins</li>
+<li>User-friendly navigation</li>
+
+<h1>Technologies Used</h1>
+
+>HTML: For the Structure of the web pages
+>CSS: For styling and layout
+>JavaScript: For interactivity and funtionality
+
+
+<h1>Getting Started</h1>
+To run the project locally ,follow these steps
+  1.clone the repository
+
