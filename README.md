@@ -1,3 +1,5 @@
+
+<h1>Tiffin Bites</h1>
 Built a responsive menu catalog web page listing multiple tiffin items (e.g. Idli, Masala Dosa, Poha) with images and pricing.
 
 Implemented a cart/order summary UI showing total items & total cost, dynamically updating as users add items.
