@@ -33,6 +33,6 @@ Paid attention to detail: item-price display, image usage, UX clarity.
 To run the project locally ,follow these steps<br>
 
   1.clone the repository<br>
-  gh repo clone Vijay-Kumar-Kolanu11/Tiffin-Bites
+  => gh repo clone Vijay-Kumar-Kolanu11/Tiffin-Bites
   
 
