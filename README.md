@@ -24,10 +24,10 @@ Paid attention to detail: item-price display, image usage, UX clarity.
 
 <h1>Technologies Used</h1>
 
->HTML: For the Structure of the web pages
->CSS: For styling and layout
->JavaScript: For interactivity and funtionality
-
+<li>HTML: For the Structure of the web pages</li>
+<li>CSS: For styling and layout</li>
+<li>JavaScript: For interactivity and funtionality
+</li>
 
 <h1>Getting Started</h1>
 To run the project locally ,follow these steps
