@@ -30,6 +30,9 @@ Paid attention to detail: item-price display, image usage, UX clarity.
 </li>
 
 <h1>Getting Started</h1>
-To run the project locally ,follow these steps
-  1.clone the repository
+To run the project locally ,follow these steps<br>
+
+  1.clone the repository<br>
+  gh repo clone Vijay-Kumar-Kolanu11/Tiffin-Bites
+  
 
